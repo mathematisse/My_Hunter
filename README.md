@@ -42,9 +42,11 @@ ___
 
 In this game, your goal is to shoot flying ducks with a laser-gun.
 
-As time pass by, more and more ducks will take-off and start fly around.
+As time pass by, more and more ducks will take-off and start flying around.
 
 When the red bar is filled, it's over, you died intoxicated with guam!
+
+**If the game closes suddenly, it is because you lost. Your score will be saved**
 
 The Orange and Green bars represents the reload and energy storage state of your laser gun.
 
